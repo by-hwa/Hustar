@@ -1,0 +1,13 @@
+D:\Hustar\C#\day9\day9\bin\Debug\day9.exe.config
+D:\Hustar\C#\day9\day9\bin\Debug\day9.exe
+D:\Hustar\C#\day9\day9\bin\Debug\day9.pdb
+D:\Hustar\C#\day9\day9\obj\Debug\day9.csproj.AssemblyReference.cache
+D:\Hustar\C#\day9\day9\obj\Debug\day9.csproj.SuggestedBindingRedirects.cache
+D:\Hustar\C#\day9\day9\obj\Debug\day9.Navigation.resources
+D:\Hustar\C#\day9\day9\obj\Debug\day9.Properties.Resources.resources
+D:\Hustar\C#\day9\day9\obj\Debug\day9.csproj.GenerateResource.cache
+D:\Hustar\C#\day9\day9\obj\Debug\day9.csproj.CoreCompileInputs.cache
+D:\Hustar\C#\day9\day9\obj\Debug\day9.exe
+D:\Hustar\C#\day9\day9\obj\Debug\day9.pdb
+D:\Hustar\C#\day9\day9\obj\Debug\day9.FillOrCancel.resources
+D:\Hustar\C#\day9\day9\obj\Debug\day9.NewCustomer.resources

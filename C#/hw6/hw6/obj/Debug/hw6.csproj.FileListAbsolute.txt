@@ -1,0 +1,14 @@
+D:\Hustar\C#\hw6\hw6\bin\Debug\hw6.exe.config
+D:\Hustar\C#\hw6\hw6\bin\Debug\hw6.exe
+D:\Hustar\C#\hw6\hw6\bin\Debug\hw6.pdb
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.csproj.AssemblyReference.cache
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.csproj.SuggestedBindingRedirects.cache
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.CreateAccount.resources
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.FindOrder.resources
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.Login.resources
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.Order.resources
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.Properties.Resources.resources
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.csproj.GenerateResource.cache
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.csproj.CoreCompileInputs.cache
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.exe
+D:\Hustar\C#\hw6\hw6\obj\Debug\hw6.pdb

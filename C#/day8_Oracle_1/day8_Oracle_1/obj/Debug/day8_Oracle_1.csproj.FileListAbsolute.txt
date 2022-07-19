@@ -1,0 +1,10 @@
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\bin\Debug\day8_Oracle_1.exe.config
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\bin\Debug\day8_Oracle_1.exe
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\bin\Debug\day8_Oracle_1.pdb
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\bin\Debug\Oracle.DataAccess.dll
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\obj\Debug\day8_Oracle_1.csproj.AssemblyReference.cache
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\obj\Debug\day8_Oracle_1.csproj.SuggestedBindingRedirects.cache
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\obj\Debug\day8_Oracle_1.csproj.CoreCompileInputs.cache
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\obj\Debug\day8_Oracle_1.csproj.CopyComplete
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\obj\Debug\day8_Oracle_1.exe
+D:\Hustar\C#\day8_Oracle_1\day8_Oracle_1\obj\Debug\day8_Oracle_1.pdb

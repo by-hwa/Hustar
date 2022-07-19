@@ -1,0 +1,15 @@
+/home/piai/C#/variable/bin/Debug/net6.0/variable
+/home/piai/C#/variable/bin/Debug/net6.0/variable.deps.json
+/home/piai/C#/variable/bin/Debug/net6.0/variable.runtimeconfig.json
+/home/piai/C#/variable/bin/Debug/net6.0/variable.dll
+/home/piai/C#/variable/bin/Debug/net6.0/variable.pdb
+/home/piai/C#/variable/obj/Debug/net6.0/variable.csproj.AssemblyReference.cache
+/home/piai/C#/variable/obj/Debug/net6.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/C#/variable/obj/Debug/net6.0/variable.AssemblyInfoInputs.cache
+/home/piai/C#/variable/obj/Debug/net6.0/variable.AssemblyInfo.cs
+/home/piai/C#/variable/obj/Debug/net6.0/variable.csproj.CoreCompileInputs.cache
+/home/piai/C#/variable/obj/Debug/net6.0/variable.dll
+/home/piai/C#/variable/obj/Debug/net6.0/refint/variable.dll
+/home/piai/C#/variable/obj/Debug/net6.0/variable.pdb
+/home/piai/C#/variable/obj/Debug/net6.0/variable.genruntimeconfig.cache
+/home/piai/C#/variable/obj/Debug/net6.0/ref/variable.dll

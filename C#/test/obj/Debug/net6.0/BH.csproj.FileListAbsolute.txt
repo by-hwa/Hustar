@@ -1,0 +1,15 @@
+/home/piai/C#/BH/bin/Debug/net6.0/BH
+/home/piai/C#/BH/bin/Debug/net6.0/BH.deps.json
+/home/piai/C#/BH/bin/Debug/net6.0/BH.runtimeconfig.json
+/home/piai/C#/BH/bin/Debug/net6.0/BH.dll
+/home/piai/C#/BH/bin/Debug/net6.0/BH.pdb
+/home/piai/C#/BH/obj/Debug/net6.0/BH.csproj.AssemblyReference.cache
+/home/piai/C#/BH/obj/Debug/net6.0/BH.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/C#/BH/obj/Debug/net6.0/BH.AssemblyInfoInputs.cache
+/home/piai/C#/BH/obj/Debug/net6.0/BH.AssemblyInfo.cs
+/home/piai/C#/BH/obj/Debug/net6.0/BH.csproj.CoreCompileInputs.cache
+/home/piai/C#/BH/obj/Debug/net6.0/BH.dll
+/home/piai/C#/BH/obj/Debug/net6.0/refint/BH.dll
+/home/piai/C#/BH/obj/Debug/net6.0/BH.pdb
+/home/piai/C#/BH/obj/Debug/net6.0/BH.genruntimeconfig.cache
+/home/piai/C#/BH/obj/Debug/net6.0/ref/BH.dll

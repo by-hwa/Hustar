@@ -1,0 +1,11 @@
+D:\Hustar\C#\day4_1\day4_1\bin\Debug\day4_1.exe.config
+D:\Hustar\C#\day4_1\day4_1\bin\Debug\day4_1.exe
+D:\Hustar\C#\day4_1\day4_1\bin\Debug\day4_1.pdb
+D:\Hustar\C#\day4_1\day4_1\obj\Debug\day4_1.csproj.AssemblyReference.cache
+D:\Hustar\C#\day4_1\day4_1\obj\Debug\day4_1.csproj.SuggestedBindingRedirects.cache
+D:\Hustar\C#\day4_1\day4_1\obj\Debug\day4_1.Form1.resources
+D:\Hustar\C#\day4_1\day4_1\obj\Debug\day4_1.Properties.Resources.resources
+D:\Hustar\C#\day4_1\day4_1\obj\Debug\day4_1.csproj.GenerateResource.cache
+D:\Hustar\C#\day4_1\day4_1\obj\Debug\day4_1.csproj.CoreCompileInputs.cache
+D:\Hustar\C#\day4_1\day4_1\obj\Debug\day4_1.exe
+D:\Hustar\C#\day4_1\day4_1\obj\Debug\day4_1.pdb

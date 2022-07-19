@@ -1,0 +1,11 @@
+D:\Hustar\C#\day4\hw4\hw4\bin\Debug\hw4.exe.config
+D:\Hustar\C#\day4\hw4\hw4\bin\Debug\hw4.exe
+D:\Hustar\C#\day4\hw4\hw4\bin\Debug\hw4.pdb
+D:\Hustar\C#\day4\hw4\hw4\obj\Debug\hw4.csproj.AssemblyReference.cache
+D:\Hustar\C#\day4\hw4\hw4\obj\Debug\hw4.csproj.SuggestedBindingRedirects.cache
+D:\Hustar\C#\day4\hw4\hw4\obj\Debug\hw4.HW4.resources
+D:\Hustar\C#\day4\hw4\hw4\obj\Debug\hw4.Properties.Resources.resources
+D:\Hustar\C#\day4\hw4\hw4\obj\Debug\hw4.csproj.GenerateResource.cache
+D:\Hustar\C#\day4\hw4\hw4\obj\Debug\hw4.csproj.CoreCompileInputs.cache
+D:\Hustar\C#\day4\hw4\hw4\obj\Debug\hw4.exe
+D:\Hustar\C#\day4\hw4\hw4\obj\Debug\hw4.pdb

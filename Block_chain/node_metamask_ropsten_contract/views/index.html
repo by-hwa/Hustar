@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title> 약속 기록 시스템 </title>
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <!-- progress barstle -->
+  <link rel="stylesheet" href="css/css-circular-prog-bar.css">
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+  <!-- font wesome stylesheet -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <!-- Custom styles for this template -->
+  <link href="../css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="../css/responsive.css" rel="stylesheet" />
+
+
+
+
+  <link rel="stylesheet" href="../css/css-circular-prog-bar.css">
+
+  <meta charset="utf-8">
+  <script src="https://code.jquery.com/jquery-latest.js "></script>
+  <link rel='stylesheet' href='./css/style.css' type='text/css' />
+  <script type="text/javascript">
+
+    $(document).ready(function () {
+      getListAll()
+
+      $("form").submit(function (event) {
+        // Stop form from submitting normally
+        event.preventDefault();
+        console.log('form ');
+
+        /* Serialize the submitted form control values to be sent to the web server with the request */
+        let formValues = $(this).serialize();
+
+        // Send the form data using post
+        $.post("/submit", formValues, function (data) {
+          // Display the returned data in browser
+          // $("#result").html(data);
+
+          console.log('success : ', data);
+          getList()
+
+        });  // end of post
+      });  // end of submit
+    });  // end of ready
+
+    function getListAll() {
+      // Send the form data using post
+      $.get("/listall", function (data) {
+        console.log('data.getLists : ', data.getLists);
+        let productList = data.getLists;
+        let table = document.getElementById("table1");
+        for (let i = 0; i < productList.length; i++) {
+          let cnt = productList.length - 1 - i;
+          let product = productList[cnt];
+          processTable(product)
+        }  // end of for
+      });  // end of post
+    }  // end of getListAll
+
+    function processTable(getProduct) {
+      let table = document.getElementById("table1");
+      let toString = getProduct.toString();
+      console.log("getProduct: " + getProduct);
+      console.log("processTable: " + toString);
+      let strArray = toString.split(",");
+      let timestamp = new Date(strArray[3] * 1000);
+      //console.log("timestamp: " + timestamp);
+      //console.log("strArray: " + strArray[3] * 1000);
+
+      let row = table.insertRow();
+      let cell1 = row.insertCell(0);
+      let cell2 = row.insertCell(1);
+      let cell3 = row.insertCell(2);
+      let cell4 = row.insertCell(3);
+      cell1.innerHTML = strArray[0];
+      cell2.innerHTML = strArray[1];
+      cell3.innerHTML = strArray[2];
+      cell4.style.width = "60%";
+      cell4.innerHTML = timestamp;
+    }
+
+    function getList() {
+      // Send the form data using post
+      $.get("/list", function (data) {
+        console.log('data.getLists : '+ data.getLists);
+        //let toString = data.getLists.toString();
+        //console.log('data.getLists++ : '+ toString);
+        //let jsonStr = JSON.stringify(data.getLists);
+        //console.log("jsonStr: "+  jsonStr);
+
+        // let strArray = toString.split(",");
+        // let timestamp = new Date(strArray[3] * 1000);
+        //console.log("timestamp: " + timestamp);
+        //console.log("timestamp: " + strArray[3] * 1000);
+        //console.log("strArray: " + strArray[0] + ", " + strArray[1] + ", " + strArray[2] + ", " + timestamp);
+        //getListAll()
+
+        processTable(data.getLists)
+      });  // end of get
+    }  // end of getListAll
+  </script>
+</head>
+
+
+<body>
+  <div class="top_container">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container">
+        
+          <a class="navbar-brand" href="index.html">
+            <img src="../images/logo.png" alt="">
+            <h1> 약속 기록 시스템 </h1>
+          </a>
+          
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+
+
+            </div>
+        </nav>
+      </div>
+    </header>
+    <section class="hero_section ">
+      <div class="hero-container container">
+        <div class="hero_detail-box">
+          <form>
+            <label>약속 시간:
+              <input type="text" name="pronumber" placeholder="when..">
+            </label>
+            <br>
+            <label>약속자 1:
+              <input type="text" name="proname" placeholder="who ..">
+            </label>
+            <br>
+            <label>약속자 2:
+              <input type="text" name="proloc" placeholder="who  ..">
+            </label>
+            <br>
+            
+          </form>
+          <div id="message"></div>
+          <table style="width:100%" id="table1"></table>
+          <div class="hero_btn-continer">
+            <a href="" class="call_to-btn btn_white-border">
+              <input type="submit" value="Send">
+              <img src="../images/right-arrow.png" alt="">
+            </a>
+          </div>
+        </div>
+        <div class="hero_img-container">
+          <div>
+            <img src="../images/hero.png" alt="" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  
+  
+</body>
+</html>

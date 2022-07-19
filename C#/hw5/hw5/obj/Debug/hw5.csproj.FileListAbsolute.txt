@@ -1,0 +1,11 @@
+D:\Hustar\C#\hw5\hw5\bin\Debug\hw5.exe.config
+D:\Hustar\C#\hw5\hw5\bin\Debug\hw5.exe
+D:\Hustar\C#\hw5\hw5\bin\Debug\hw5.pdb
+D:\Hustar\C#\hw5\hw5\obj\Debug\hw5.csproj.AssemblyReference.cache
+D:\Hustar\C#\hw5\hw5\obj\Debug\hw5.csproj.SuggestedBindingRedirects.cache
+D:\Hustar\C#\hw5\hw5\obj\Debug\hw5.Form1.resources
+D:\Hustar\C#\hw5\hw5\obj\Debug\hw5.Properties.Resources.resources
+D:\Hustar\C#\hw5\hw5\obj\Debug\hw5.csproj.GenerateResource.cache
+D:\Hustar\C#\hw5\hw5\obj\Debug\hw5.csproj.CoreCompileInputs.cache
+D:\Hustar\C#\hw5\hw5\obj\Debug\hw5.exe
+D:\Hustar\C#\hw5\hw5\obj\Debug\hw5.pdb

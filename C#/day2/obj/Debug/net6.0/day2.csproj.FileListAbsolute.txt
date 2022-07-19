@@ -1,0 +1,15 @@
+/home/piai/C#/day2/bin/Debug/net6.0/day2
+/home/piai/C#/day2/bin/Debug/net6.0/day2.deps.json
+/home/piai/C#/day2/bin/Debug/net6.0/day2.runtimeconfig.json
+/home/piai/C#/day2/bin/Debug/net6.0/day2.dll
+/home/piai/C#/day2/bin/Debug/net6.0/day2.pdb
+/home/piai/C#/day2/obj/Debug/net6.0/day2.csproj.AssemblyReference.cache
+/home/piai/C#/day2/obj/Debug/net6.0/day2.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/C#/day2/obj/Debug/net6.0/day2.AssemblyInfoInputs.cache
+/home/piai/C#/day2/obj/Debug/net6.0/day2.AssemblyInfo.cs
+/home/piai/C#/day2/obj/Debug/net6.0/day2.csproj.CoreCompileInputs.cache
+/home/piai/C#/day2/obj/Debug/net6.0/day2.dll
+/home/piai/C#/day2/obj/Debug/net6.0/refint/day2.dll
+/home/piai/C#/day2/obj/Debug/net6.0/day2.pdb
+/home/piai/C#/day2/obj/Debug/net6.0/day2.genruntimeconfig.cache
+/home/piai/C#/day2/obj/Debug/net6.0/ref/day2.dll

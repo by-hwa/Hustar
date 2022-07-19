@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hustar Cafe</title>
+</head>
+<!-- 행 만들기 <tr> 열 만들기 <th>-->
+<!-- tr*13>th*4tab-->
+<!-- colspan= "2" 열 병합 rowspan="2"행 병합-->
+<body>
+    <table>
+        <style>
+            table{border : 2px solid; border-collapse:collapse; text-align:left;}
+            th, td{border:1px solid; padding:5px 5px; text-align:left;}
+            th{background-color: pink; color: black; font-size: large;}
+            .col1{background-color: yellow;}
+            tfoot{background-color: rgb(56, 13, 13); color:wheat}
+        </style>
+        
+        <caption>
+            카페 주문 메뉴
+            <tr>
+                <th>메뉴</th>
+                <th>가격</th>
+                <th>인원</th>
+                <th>총액</th>
+            </tr>
+            <tr>
+                <td>아메리카노</td>
+                <td rowspan="2">3500</td>
+                <td rowspan="6">1</td>
+                <td>3500</td>
+            </tr>
+            <tr>
+                <td>읍천리감주</td>
+                <td>3500</td>
+            </tr>
+            <tr>
+                <td>콜드브루</td>
+                <td rowspan="2">4000</td>
+                <td>4000</td>
+            </tr>
+            <tr>
+                <td>카페라떼</td>
+                <td>4000</td>
+            </tr>
+            <tr>
+                <td>미숫가루</td>
+                <td rowspan="3">4500</td>
+                <td>4500</td>
+            </tr>
+            <tr>
+                <td>헤이즐넛 디카페인</td>
+                <td>4500</td>
+            </tr>
+            <tr>
+                <td>자몽에이드</td>
+                <td>5</td>
+                <td>22500</td>
+            </tr>
+            <tr>
+                <td>아이스 토피넛 라떼</td>
+                <td rowspan="2">5000</td>
+                <td rowspan="3">1</td>
+                <td>5000</td>
+            </tr>
+            <tr>
+                <td>자바초코칩 스무디</td>
+                <td>5000</td>
+            </tr>
+            <tr>
+                <td>망고맡 라떼</td>
+                <td rowspan="3">5500</td>
+                <td>5500</td>
+            </tr>
+            <tr>
+                <td>흑당버블티</td>
+                <td>2</td>
+                <td>11000</td>
+            </tr>
+            <tr>
+                <td>딸기밭 라떼</td>
+                <td>6</td>
+                <td>33000</td>
+            </tr>
+            <tfoot>
+                <td>합계</td>
+                <td>55000</td>
+                <td>22</td>
+                <td>106000</td>
+            </tfoot>
+        </caption>
+    </table>
+</body>
+</html>

@@ -1,0 +1,15 @@
+/home/piai/C#/hw1/bin/Debug/net6.0/hw1
+/home/piai/C#/hw1/bin/Debug/net6.0/hw1.deps.json
+/home/piai/C#/hw1/bin/Debug/net6.0/hw1.runtimeconfig.json
+/home/piai/C#/hw1/bin/Debug/net6.0/hw1.dll
+/home/piai/C#/hw1/bin/Debug/net6.0/hw1.pdb
+/home/piai/C#/hw1/obj/Debug/net6.0/hw1.csproj.AssemblyReference.cache
+/home/piai/C#/hw1/obj/Debug/net6.0/hw1.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/C#/hw1/obj/Debug/net6.0/hw1.AssemblyInfoInputs.cache
+/home/piai/C#/hw1/obj/Debug/net6.0/hw1.AssemblyInfo.cs
+/home/piai/C#/hw1/obj/Debug/net6.0/hw1.csproj.CoreCompileInputs.cache
+/home/piai/C#/hw1/obj/Debug/net6.0/hw1.dll
+/home/piai/C#/hw1/obj/Debug/net6.0/refint/hw1.dll
+/home/piai/C#/hw1/obj/Debug/net6.0/hw1.pdb
+/home/piai/C#/hw1/obj/Debug/net6.0/hw1.genruntimeconfig.cache
+/home/piai/C#/hw1/obj/Debug/net6.0/ref/hw1.dll

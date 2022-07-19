@@ -1,0 +1,15 @@
+/home/piai/C#/ mjko/obj/Debug/net6.0/mjko.csproj.AssemblyReference.cache
+/home/piai/C#/ mjko/obj/Debug/net6.0/mjko.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/C#/ mjko/obj/Debug/net6.0/mjko.AssemblyInfoInputs.cache
+/home/piai/C#/ mjko/obj/Debug/net6.0/mjko.AssemblyInfo.cs
+/home/piai/C#/ mjko/obj/Debug/net6.0/mjko.csproj.CoreCompileInputs.cache
+/home/piai/C#/ mjko/bin/Debug/net6.0/mjko
+/home/piai/C#/ mjko/bin/Debug/net6.0/mjko.deps.json
+/home/piai/C#/ mjko/bin/Debug/net6.0/mjko.runtimeconfig.json
+/home/piai/C#/ mjko/bin/Debug/net6.0/mjko.dll
+/home/piai/C#/ mjko/bin/Debug/net6.0/mjko.pdb
+/home/piai/C#/ mjko/obj/Debug/net6.0/mjko.dll
+/home/piai/C#/ mjko/obj/Debug/net6.0/refint/mjko.dll
+/home/piai/C#/ mjko/obj/Debug/net6.0/mjko.pdb
+/home/piai/C#/ mjko/obj/Debug/net6.0/mjko.genruntimeconfig.cache
+/home/piai/C#/ mjko/obj/Debug/net6.0/ref/mjko.dll

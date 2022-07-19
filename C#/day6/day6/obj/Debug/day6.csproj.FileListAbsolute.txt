@@ -1,0 +1,11 @@
+D:\Hustar\C#\day6\day6\obj\Debug\day6.csproj.AssemblyReference.cache
+D:\Hustar\C#\day6\day6\obj\Debug\day6.csproj.SuggestedBindingRedirects.cache
+D:\Hustar\C#\day6\day6\obj\Debug\day6.Form1.resources
+D:\Hustar\C#\day6\day6\obj\Debug\day6.Properties.Resources.resources
+D:\Hustar\C#\day6\day6\obj\Debug\day6.csproj.GenerateResource.cache
+D:\Hustar\C#\day6\day6\obj\Debug\day6.csproj.CoreCompileInputs.cache
+D:\Hustar\C#\day6\day6\bin\Debug\day6.exe.config
+D:\Hustar\C#\day6\day6\bin\Debug\day6.exe
+D:\Hustar\C#\day6\day6\bin\Debug\day6.pdb
+D:\Hustar\C#\day6\day6\obj\Debug\day6.exe
+D:\Hustar\C#\day6\day6\obj\Debug\day6.pdb
