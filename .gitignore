@@ -4,3 +4,7 @@ Java/
 *.mp4
 *.jpg
 *.zip
+*.png
+*.gif
+*.jpeg
+Computer_Vision/**/data/
